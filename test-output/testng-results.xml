@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-01-26T18:38:03 IST" name="Default suite" finished-at="2022-01-26T18:38:25 IST" duration-ms="22574">
+  <suite started-at="2022-01-26T18:52:40 IST" name="Default suite" finished-at="2022-01-26T18:53:01 IST" duration-ms="21041">
     <groups>
     </groups>
-    <test started-at="2022-01-26T18:38:03 IST" name="Default test" finished-at="2022-01-26T18:38:25 IST" duration-ms="22574">
+    <test started-at="2022-01-26T18:52:40 IST" name="Default test" finished-at="2022-01-26T18:53:01 IST" duration-ms="21041">
       <class name="Test.autoSuggestTest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.autoSuggestTest@346d61be]" started-at="2022-01-26T18:38:03 IST" name="setUp" finished-at="2022-01-26T18:38:16 IST" duration-ms="13029" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Test.autoSuggestTest@346d61be]" started-at="2022-01-26T18:52:40 IST" name="setUp" finished-at="2022-01-26T18:52:52 IST" duration-ms="11879" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="verifyTextEntered()[pri:0, instance:Test.autoSuggestTest@346d61be]" started-at="2022-01-26T18:38:16 IST" name="verifyTextEntered" finished-at="2022-01-26T18:38:21 IST" duration-ms="4682" status="PASS">
+        <test-method signature="verifyTextEntered()[pri:0, instance:Test.autoSuggestTest@346d61be]" started-at="2022-01-26T18:52:52 IST" name="verifyTextEntered" finished-at="2022-01-26T18:52:57 IST" duration-ms="4320" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyTextEntered -->
-        <test-method is-config="true" signature="closeAll()[pri:0, instance:Test.autoSuggestTest@346d61be]" started-at="2022-01-26T18:38:21 IST" name="closeAll" finished-at="2022-01-26T18:38:25 IST" duration-ms="4821" status="PASS">
+        <test-method is-config="true" signature="closeAll()[pri:0, instance:Test.autoSuggestTest@346d61be]" started-at="2022-01-26T18:52:57 IST" name="closeAll" finished-at="2022-01-26T18:53:01 IST" duration-ms="4800" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeAll -->
